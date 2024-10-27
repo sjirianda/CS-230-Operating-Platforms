@@ -2,7 +2,7 @@
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-The Gaming Room was the client. hThey seeks to expand their game application, Draw It or Lose It, to multiple platforms including Linux, Mac, and Windows, as well as mobile platforms. 
+The Gaming Room was the client. They sought to expand their game application, Draw It or Lose It, to multiple platforms including Linux, Mac, and Windows, as well as mobile platforms. 
 
 What did you do particularly well in developing this documentation?
 
@@ -21,4 +21,5 @@ How did you interpret the user’s needs and implement them into your software d
 I took note of the customer's requirements and vision for the application. Considering user needs is crucial as it directly impacts user engagement and satisfaction. The design ensures higher adoption rates and enhances the overall gameplay experience.
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
 I think using established patterns from the start helps everyone understand what we want to achieve while giving developers the freedom to choose how to build it. Breaking down big features into smaller API-driven microservices lets us build complex systems step by step. First, defining data structures and processes helps guide other work, like designing the user interface. I’d use similar strategies, like creating modular designs, using patterns, drawing domain models, and making sure there’s a clear connection between user needs and technical details.
